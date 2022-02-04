@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/06 16:02:37.000.240,=C:\Users\DARIO\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/06 16:03:36.000.142,C:\Users\DARIO\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Dev\Kimmera Backup\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2021/12/06 16:03:36.000.142,C:\Users\DARIO\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Dev\Kimmera Backup\ufrmPrincipal.pas</Transaction>
+    <Transaction>2021/12/06 16:50:53.000.548,C:\Users\DARIO\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Dev\Kimmera Backup\Kimmera.dproj</Transaction>
+    <Transaction>2021/12/07 10:59:20.000.487,=C:\Dev\Kimmera Backup\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 11:00:42.000.465,C:\Dev\Kimmera Backup\ufrmMegaConta.pas=C:\Dev\Kimmera Backup\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 11:00:42.000.465,C:\Dev\Kimmera Backup\ufrmMegaConta.dfm=C:\Dev\Kimmera Backup\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
